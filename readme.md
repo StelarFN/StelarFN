@@ -1,3 +1,6 @@
-# you can download the launcher now just clicking in the latest part: ↘️
-tutorial:
+# you can download the launcher now just clicking in the release section: ↘️
+
+**tutorial:**
+
+https://github.com/user-attachments/assets/195ef096-bb6d-4454-8d0b-647313cd7f99
 
