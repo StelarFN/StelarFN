@@ -6,7 +6,7 @@ Welcome to the **StelarFN Launcher** repository! This launcher is designed to pr
 
 You can download the latest version of the launcher directly from the **"Releases"** section. Simply click the link below to get started:
 
-[**Download the Launcher** ↘️]([#](https://github.com/StelarFN/StelarFN/releases)  
+[**Download the Launcher** ↘️](https://github.com/StelarFN/StelarFN/releases)  
 *(Make sure to verify you're downloading the latest version)*
 
 ## 📚 **Step-by-Step Tutorial**
