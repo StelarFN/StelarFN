@@ -6,6 +6,18 @@ Welcome to the **StelarFN Launcher** repository! This launcher is designed to pr
 
 You can download the latest version of the launcher directly from the **"Releases"** section. Simply click the link below to get started:
 
+## Supported verisons:
+Name            |Status          |🚦 
+________________| ______________ |__________________
+Nintendo Switch | Unsuported     |🔴
+PS4/5           | Unsuported     |🔴
+Xbox            | Unsuported     |🔴
+Windows         | suported       |🟢
+Linux           | Unsuported     |🔴
+Android         | Supported      |🟢
+IOS             | In dev         |👨‍💻
+
+
 [**Download the Launcher** ↘️](https://github.com/StelarFN/StelarFN/releases)  
 *(Make sure to verify you're downloading the latest version)*
 
