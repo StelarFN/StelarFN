@@ -5,7 +5,7 @@ Welcome to the **StelarFN Launcher** repository! This launcher is designed to pr
 ## 📦 Downloads
 
 [![PC Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/PC/total?label=PC%20Downloads&style=flat-square)](https://github.com/StelarFN/StelarFN/releases/tag/PC)
-[![Phone Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/phone/total?label=Phone%20Downloads&style=flat-square)](https://github.com/StelarFN/StelarFN/releases/tag/phone)
+[![Phone Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/phone/total?label=Android%20Downloads&style=flat-square)](https://github.com/StelarFN/StelarFN/releases/tag/phone)
 
 
 ## Supported verisons:
