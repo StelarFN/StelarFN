@@ -81,7 +81,7 @@
 
 ### 📞 **Support Channels**
 - 💬 **Discord**: Instant support and active community
-- 📧 **Email**: stelarfn@mtbr29.com
+- 📧 **Email**: stelarfn@mtbr29.dev
 - 🐛 **Issues**: [GitHub Issues](https://github.com/StelarFN/StelarFN/issues)
 - 📚 **Wiki**: [Complete Documentation](https://github.com/StelarFN/StelarFN/wiki)
 
@@ -137,7 +137,6 @@ We love receiving contributions from the community!
 1. Read our [Code of Conduct](./CODE_OF_CONDUCT.md)
 2. Review the [Contributing Guidelines](./CONTRIBUTING.md)
 3. Check that no similar issue exists
-4. Follow our code conventions
 
 ---
 
@@ -180,6 +179,6 @@ Special thanks to:
 
 *Made with ❤️ by the StelarFN team*
 
-**[🌐 Website](https://stelarfn.com) • [📱 Discord](https://discord.gg/stelarFN) • [📧 Contact](mailto:contact@stelarfn.com)**
+**[🌐 Website](https://stelarfn.com) • [📱 Discord](https://discord.gg/stelarFN) • [📧 Contact](mailto:stelarfn@mtbr29.dev)**
 
 </div>
