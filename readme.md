@@ -26,9 +26,9 @@
 
 | Platform | Status | Downloads | Link |
 |----------|--------|-----------|------|
-| 🖥️ **Windows** | ✅ Supported | [![PC Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/PC/total?label=Downloads&style=flat-square&color=success)](https://github.com/StelarFN/StelarFN/releases/tag/PC) | [Download](https://github.com/StelarFN/StelarFN/releases/tag/PC) |
-| 📱 **Android** | ✅ Supported | [![Android Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/phone/total?label=Downloads&style=flat-square&color=success)](https://github.com/StelarFN/StelarFN/releases/tag/phone) | [Download](https://github.com/StelarFN/StelarFN/releases/tag/phone) |
-| 🍎 **iOS** | ✅ Supported | [![iOS Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/phone/total?label=Downloads&style=flat-square&color=success)](https://github.com/StelarFN/StelarFN/releases/tag/IOS) | [Download](https://github.com/StelarFN/StelarFN/releases/tag/IOS) |
+| 🖥️ **Windows** | ✅ Available | [![PC Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/PC/total?label=Downloads&style=flat-square&color=success)](https://github.com/StelarFN/StelarFN/releases/tag/PC) | [Download](https://github.com/StelarFN/StelarFN/releases/tag/PC) |
+| 📱 **Android** | ✅ Available | [![Android Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/phone/total?label=Downloads&style=flat-square&color=success)](https://github.com/StelarFN/StelarFN/releases/tag/phone) | [Download](https://github.com/StelarFN/StelarFN/releases/tag/phone) |
+| 🍎 **iOS** | ✅ Available | [![iOS Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/phone/total?label=Downloads&style=flat-square&color=success)](https://github.com/StelarFN/StelarFN/releases/tag/IOS) | [Download](https://github.com/StelarFN/StelarFN/releases/tag/IOS) |
 | 🌐 **Browser** | ❌ Not Available | - | Under Maintenance |
 | 🎮 **Nintendo Switch** | ❌ Not Supported | - | - |
 | 🎯 **PlayStation 4** | ❌ Not Supported | - | Coming Soon |
