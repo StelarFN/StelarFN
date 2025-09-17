@@ -31,9 +31,9 @@
 | 🍎 **iOS** | ✅ Supported | [![iOS Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/phone/total?label=Downloads&style=flat-square&color=success)](https://github.com/StelarFN/StelarFN/releases/tag/IOS) | [Download](https://github.com/StelarFN/StelarFN/releases/tag/IOS) |
 | 🌐 **Browser** | ❌ Not Available | - | In Development |
 | 🎮 **Nintendo Switch** | ❌ Not Supported | - | - |
-| 🎯 **PlayStation 4/5** | ❌ Not Supported | - | - |
+| 🎯 **PlayStation 4** | ❌ Not Supported | - | Coming Soon |
 | 🎮 **Xbox** | ❌ Not Supported | - | - |
-| 🐧 **Linux** | ❌ Not Supported | - | Coming Soon |
+| 🐧 **Linux** | ❌ Not Supported | - | - |
 
 
 
