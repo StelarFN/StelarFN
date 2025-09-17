@@ -179,6 +179,6 @@ Special thanks to:
 
 *Made with ❤️ by the StelarFN team*
 
-**[🌐 Website](https://stelarfn.com) • [📱 Discord](https://discord.gg/stelarFN) • [📧 Contact](mailto:stelarfn@mtbr29.dev)**
+**[🌐 Website](https://stelarfn.onrender.com) • [📱 Discord](https://discord.gg/stelarFN) • [📧 Contact](mailto:stelarfn@mtbr29.dev)**
 
 </div>
