@@ -17,7 +17,7 @@
 - 🎮 **Authentic Experience** - Faithful recreation of Chapter 1, Season X
 - 🔄 **Regular Updates** - Constant improvements and new features
 - 🛡️ **Guaranteed Security** - Verified code and trusted community
-- 👥 **Active Community** - Thousands of players and 24/7 support
+- 👥 **Active Community** - 200 players and 24/7 support
 
 ---
 
