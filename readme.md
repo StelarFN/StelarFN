@@ -2,7 +2,6 @@
 
 > **Relive the nostalgia of Fortnite Chapter 1, Season X with the ultimate private server experience**
 
-[![GitHub release](https://img.shields.io/github/v/release/StelarFN/StelarFN?style=for-the-badge&logo=github&color=blue)](https://github.com/StelarFN/StelarFN/releases)
 
 [![GitHub stars](https://img.shields.io/github/stars/StelarFN/StelarFN?style=for-the-badge&logo=star&color=yellow)](https://github.com/StelarFN/StelarFN/stargazers)
 
