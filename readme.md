@@ -7,7 +7,7 @@ Welcome to the **StelarFN** repository! This Fortnite OG Private Server is desig
 [![PC Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/PC/total?label=PC%20Downloads&style=flat-square)](https://github.com/StelarFN/StelarFN/releases/tag/PC)
 [![Phone Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/phone/total?label=Android%20Downloads&style=flat-square)](https://github.com/StelarFN/StelarFN/releases/tag/phone)
 
-[![IOS Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/phone/total?label=Android%20Downloads&style=flat-square)](https://github.com/StelarFN/StelarFN/releases/tag/IOS)
+[![IOS Downloads](https://img.shields.io/github/downloads/StelarFN/StelarFN/phone/total?label=iOS%20Downloads&style=flat-square)](https://github.com/StelarFN/StelarFN/releases/tag/IOS)
 ## Supported verisons:
 ```
 Name            |Status          |🚦 
