@@ -1,6 +1,6 @@
 # 🌟 **StelarFN** - Fortnite OG Private Server
 
-> **Relive the nostalgia of Fortnite Chapter 1, Season X with the ultimate private server experience**
+> **Relive the nostalgia of Fortnite Chapter 2, Season 3 with the ultimate private server experience**
 
 
 
@@ -8,12 +8,12 @@
 
 ## 📝 **Description**
 
-**StelarFN** is a Fortnite private server designed to recreate the authentic experience of **Fortnite Chapter 1, Season X**. Our goal is to provide optimal performance, exceptional stability, and a complete nostalgic experience for all players who miss the golden days of Fortnite.
+**StelarFN** is a Fortnite private server designed to recreate the authentic experience of **Fortnite Chapter 2, Season 3**. Our goal is to provide optimal performance, exceptional stability, and a complete nostalgic experience for all players who miss the golden days of Fortnite.
 
 ### ✨ **Why Choose StelarFN?**
 
 - 🚀 **Superior Performance** - Optimized for maximum speed and stability
-- 🎮 **Authentic Experience** - Faithful recreation of Chapter 1, Season X
+- 🎮 **Authentic Experience** - Faithful recreation of Chapter 2, Season 3
 - 🔄 **Regular Updates** - Constant improvements and new features
 - 🛡️ **Guaranteed Security** - Verified code and trusted community
 - 👥 **Active Community** - 200 players and 24/7 support
